@@ -1,20 +1,9 @@
-# Análisis II — Segundo cuatrimestre de 2015
+# Análisis II - Análisis Matemático II - Matemática 3
 
-## Prácticas
+Segundo cuatrimestre 2015
 
-- [Práctica 0:](Pract0.pdf)
-- [Práctica 1:](Pract1.pdf)
-- [Práctica 2:](Pract2.pdf)
-- [Práctica 3:](pract3.pdf)
-- [Práctica 6:](pract6.pdf)
-- [Práctica 7:](pract7.pdf)
-- [Práctica 4:](practica4.pdf)
-- [Práctica 5:](practica5.pdf)
+### Novedades
 
-## Apuntes y notas
-
-- [Apunte de Curvas, Superficies e Integrales](apuntecurvasnoemi.pdf)
-
-## Página original
-
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2015/analisis_II)
+|  |
+| --- |
+| - Para firmar la libreta es condición necesaria haber aprobado los parciales Y completar la encuesta - Consultas Turno Mañana (Pablo-Sebastian-Kevin): Miercoles dia 9 a las 11h Bar Pab I (comedor al fondo) - Consultas Turno Mañana (Joana-Alberto-Juan): Miércoles dia 9 a las 12h mesitas dep matematica - Consultas Turnos Tarde-Noche (Laura-Juan-Hector-Hernan-Nicolás): Miércoles dia 9 a las 18h Bar Pab I |
